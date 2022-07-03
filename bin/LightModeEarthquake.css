@@ -1,0 +1,23 @@
+.root{-fx-font-family: sans-serif;
+		-fx-font-size:10pt;
+		-fx-background-color:white;
+		}
+.label{-fx-text-fill:black;}
+
+.radio-button{-fx-text-fill:black;
+			fx-padding-top:30;}
+
+.menu-bar{-fx-background-color: lightgray;
+		-fx-text-fill:black;}
+
+.list-view{-fx-background-color:white;
+		-fx-color:gray;
+		-fx-background:white;
+		-fx-border-width:20;}
+
+.combo-box{-fx-background-color:lightgray;
+		-fx-color:gray;
+		-fx-border-width:2;
+		-fx-border-color:gray;
+		-fx-text-fill:black;}
+
